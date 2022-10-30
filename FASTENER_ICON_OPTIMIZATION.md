@@ -8,7 +8,7 @@ Save icons by **"File → Save As..."** menu item. File type select as: **Optimi
 
 In opened window select next options:
 
-![image](https://user-images.githubusercontent.com/116030160/197383516-2e013546-8a8d-4b92-960b-984350077984.png)
+![image](MEDIA/Icon_optimization_tool_settings.png)
 
 That must decrease size of *.svg file to 40-60%.
 
