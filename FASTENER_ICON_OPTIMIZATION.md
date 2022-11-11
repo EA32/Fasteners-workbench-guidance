@@ -20,9 +20,11 @@ Select curve and press **CTRL+G** or menu item **Path → Simplify**
 
 ## 4. Join paths.
 
+Paths that have points of contact should be combined into longer paths.
+
 Switch to "Edit paths by nodes" mode by pressing ![image](https://user-images.githubusercontent.com/116030160/198841313-97c477a8-d142-43ae-813f-de114027b559.png)
  button or press **N key** on keyboard.
-Select two separated paths. Down CTRL key and select two points where paths are connected.
+Select two separated paths. Hold down the CTRL key and select two points by selection rect where paths are contacted.
 Press ![image](https://user-images.githubusercontent.com/116030160/198841498-1a7af5a2-24af-495d-aa65-34f2d0ae18ee.png)
  button to join paths.
 
