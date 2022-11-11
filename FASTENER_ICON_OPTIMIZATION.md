@@ -26,6 +26,12 @@ This can be solved in two ways:
 
 Select curve and press **CTRL+G** or menu item **Path → Simplify** 
 
+For unknown reasons, some slightly curved lines are saved as a sequence of many points in the process of converting to *.svg.
+
+![image](https://user-images.githubusercontent.com/116030160/201370657-fca0c9c7-6207-471d-8fa2-8b9b993d5e7c.png)
+
+One such unoptimized path can take up a lot of space. Moreover, there can be many such paths. As a rule, they are on the edges of hexagonal parts.
+
 ## 4. Join paths.
 
 Paths that have points of contact should be combined into longer paths.
